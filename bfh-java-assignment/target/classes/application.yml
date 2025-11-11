@@ -1,0 +1,10 @@
+app:
+  name: "YOUR_NAME"
+  regNo: "REG12345"      
+  email: "you@example.com"
+  finalQuery: ""         
+  outputDir: "./out"     
+  autoSubmit: true       
+logging:
+  level:
+    root: INFO
